@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmanuelsimon
-- 👀 I’m interested in 
+- 👀 I’m interested in travel and so many things
 - 🌱 I’m currently learning Mean Stack starting by Angular
-- 💞️ I’m looking to collaborate on benevole projects
+- 💞️ I’m looking to collaborate on benevole projects (php, laravel, vuejs)
 - 📫 How to reach me : here or by mail
 
 <!---
